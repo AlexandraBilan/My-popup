@@ -1,0 +1,27 @@
+.popup
+{
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    background-image: url('backgroundOPT.jpg');
+    font-family: sans-serif, Arial;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.popup h2
+{
+   margin: 0; 
+}
+.popup-close
+{
+    font-size: 20px;
+    font-family: sans-serif, Arial;
+    color: #fff;
+    margin: 0;
+    padding: 1px 6px;
+    display: inline-block;
+    background: black;
+    border: 2px #fff solid;
+    border-radius: 50%;
+    cursor: pointer;
+}
+    
